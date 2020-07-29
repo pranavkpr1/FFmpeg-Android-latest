@@ -17,7 +17,7 @@ ext {
     developerEmail = 'info@bravobit.nl'
 
     licenseName = 'GNU General Public License v3.0'
-    licenseUrl = 'https://github.com/pranavkpr1/FFmpeg-Android-latest/blob/master/LICENSE'
+    licenseUrl = 'https://github.com/bravobit/FFmpeg-Android/blob/master/LICENSE'
     allLicenses = ["GPL-3.0"]
 }
 
