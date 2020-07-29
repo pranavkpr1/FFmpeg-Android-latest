@@ -8,7 +8,7 @@ ext {
     libraryDescription = 'FFmpeg/FFprobe compiled for Android. Execute FFmpeg and FFprobe commands with ease in your Android project.'
 
     siteUrl = 'https://github.com/pranavkpr1/FFmpeg-Android-latest'
-    gitUrl = 'https://github.com/pranavkpr1/FFmpeg-Android-latest'
+    gitUrl = 'https://github.com/pranavkpr1/FFmpeg-Android-latest.git'
 
     libraryVersion = '1.1.7'
 
