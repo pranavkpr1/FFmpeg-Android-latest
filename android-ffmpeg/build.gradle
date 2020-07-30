@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 
 ext {
-    publishedGroupId = 'com.github.pranavkpr1'
+    publishedGroupId = 'nl.bravobit'
     libraryName = 'Android FFmpeg'
     artifact = 'android-ffmpeg'
 
